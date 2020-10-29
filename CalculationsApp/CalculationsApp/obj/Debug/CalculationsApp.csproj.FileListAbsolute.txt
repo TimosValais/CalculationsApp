@@ -1,0 +1,7 @@
+C:\Users\timos\source\repos\CalculationsApp\CalculationsApp\bin\Debug\CalculationsApp.exe.config
+C:\Users\timos\source\repos\CalculationsApp\CalculationsApp\bin\Debug\CalculationsApp.exe
+C:\Users\timos\source\repos\CalculationsApp\CalculationsApp\bin\Debug\CalculationsApp.pdb
+C:\Users\timos\source\repos\CalculationsApp\CalculationsApp\obj\Debug\CalculationsApp.csprojAssemblyReference.cache
+C:\Users\timos\source\repos\CalculationsApp\CalculationsApp\obj\Debug\CalculationsApp.csproj.CoreCompileInputs.cache
+C:\Users\timos\source\repos\CalculationsApp\CalculationsApp\obj\Debug\CalculationsApp.exe
+C:\Users\timos\source\repos\CalculationsApp\CalculationsApp\obj\Debug\CalculationsApp.pdb
